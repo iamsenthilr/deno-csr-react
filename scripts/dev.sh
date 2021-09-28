@@ -1,0 +1,1 @@
+deno run --unstable -A --watch --import-map=importMap.json --allow-env --allow-net --allow-read server.ts
